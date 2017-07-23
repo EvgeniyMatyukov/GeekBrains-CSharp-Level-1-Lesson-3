@@ -1,0 +1,5 @@
+E:\Matyukov\csharp\lesson3\fraction\bin\Debug\fraction.exe
+E:\Matyukov\csharp\lesson3\fraction\bin\Debug\fraction.pdb
+E:\Matyukov\csharp\lesson3\fraction\obj\x86\Debug\fraction.exe
+E:\Matyukov\csharp\lesson3\fraction\obj\x86\Debug\fraction.pdb
+e:\Matyukov\csharp\lesson3\fraction\obj\x86\Debug\fraction.csprojResolveAssemblyReference.cache

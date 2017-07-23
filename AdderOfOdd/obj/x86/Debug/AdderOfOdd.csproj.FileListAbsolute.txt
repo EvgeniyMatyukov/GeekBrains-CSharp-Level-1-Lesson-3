@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson3\AdderOfOdd\bin\Debug\AdderOfOdd.exe
+E:\Matyukov\csharp\lesson3\AdderOfOdd\bin\Debug\AdderOfOdd.pdb
+E:\Matyukov\csharp\lesson3\AdderOfOdd\obj\x86\Debug\AdderOfOdd.exe
+E:\Matyukov\csharp\lesson3\AdderOfOdd\obj\x86\Debug\AdderOfOdd.pdb

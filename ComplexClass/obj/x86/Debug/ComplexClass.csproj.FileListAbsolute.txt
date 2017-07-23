@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson3\ComplexClass\bin\Debug\ComplexClass.exe
+E:\Matyukov\csharp\lesson3\ComplexClass\bin\Debug\ComplexClass.pdb
+E:\Matyukov\csharp\lesson3\ComplexClass\obj\x86\Debug\ComplexClass.exe
+E:\Matyukov\csharp\lesson3\ComplexClass\obj\x86\Debug\ComplexClass.pdb

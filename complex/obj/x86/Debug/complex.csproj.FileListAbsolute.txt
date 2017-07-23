@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson3\complex\bin\Debug\complex.exe
+E:\Matyukov\csharp\lesson3\complex\bin\Debug\complex.pdb
+E:\Matyukov\csharp\lesson3\complex\obj\x86\Debug\complex.exe
+E:\Matyukov\csharp\lesson3\complex\obj\x86\Debug\complex.pdb
